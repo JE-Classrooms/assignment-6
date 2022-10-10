@@ -1,2 +1,3 @@
-# assignment-6
-Assignment 6
+# Assignment 6
+
+Deadline: Monday, October 17 2022
